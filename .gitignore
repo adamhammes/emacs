@@ -1,5 +1,8 @@
-*
+/*
+
 !.emacs.d/
+*.lock
+*.~
 
 !.emacs
 !.gitignore
