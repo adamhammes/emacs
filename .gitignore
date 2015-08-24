@@ -3,6 +3,8 @@
 !.emacs.d/
 *.lock
 *.~
+*.desktop
+*/ac-comphist.dat
 
 !.emacs
 !.gitignore
