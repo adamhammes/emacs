@@ -5,6 +5,7 @@
 *.~
 *.desktop
 */ac-comphist.dat
+*/history
 
 !.emacs
 !.gitignore
